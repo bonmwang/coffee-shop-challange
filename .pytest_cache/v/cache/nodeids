@@ -1,0 +1,15 @@
+[
+  "tests/test_coffee.py::TestCoffee::test_average_price",
+  "tests/test_coffee.py::TestCoffee::test_customers",
+  "tests/test_coffee.py::TestCoffee::test_name_validation",
+  "tests/test_coffee.py::TestCoffee::test_num_orders",
+  "tests/test_coffee.py::TestCoffee::test_orders",
+  "tests/test_customer.py::TestCustomer::test_coffees",
+  "tests/test_customer.py::TestCustomer::test_create_order",
+  "tests/test_customer.py::TestCustomer::test_most_aficionado",
+  "tests/test_customer.py::TestCustomer::test_name_validation",
+  "tests/test_customer.py::TestCustomer::test_orders",
+  "tests/test_order.py::TestOrder::test_init",
+  "tests/test_order.py::TestOrder::test_price_validation",
+  "tests/test_order.py::TestOrder::test_relationships"
+]
