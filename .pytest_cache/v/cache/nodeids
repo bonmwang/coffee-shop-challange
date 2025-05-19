@@ -10,6 +10,7 @@
   "tests/test_customer.py::TestCustomer::test_name_validation",
   "tests/test_customer.py::TestCustomer::test_orders",
   "tests/test_order.py::TestOrder::test_init",
+  "tests/test_order.py::TestOrder::test_order_tracking",
   "tests/test_order.py::TestOrder::test_price_validation",
   "tests/test_order.py::TestOrder::test_relationships"
 ]

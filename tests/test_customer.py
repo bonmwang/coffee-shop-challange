@@ -39,4 +39,4 @@ class TestCustomer:
         Order(c1, coffee, 2.0)
         Order(c1, coffee, 3.0)
         Order(c2, coffee, 4.0)
-        assert Customer.most_aficionado(coffee).name == "Dave"
+        assert Customer.most_aficianado(coffee).name == "Dave"

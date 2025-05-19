@@ -29,3 +29,4 @@ class TestOrder:
         o = Order(c, coffee, 4.5)
         assert o in c.orders()
         assert o in coffee.orders()
+        
